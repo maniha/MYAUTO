@@ -1,0 +1,21 @@
+{
+    "errorKeyword": "no data found 123",
+    "deviceSearchTxt":"caverion",
+    "deviceSearchTag":"td",
+    "projectNoForDocument":"AAA5296-B1",
+    "deviceName1":"Test Automation Device 9",
+    "deviceName2":"Test Automation Device 10",
+    "valName":"name",
+    "deviceType":"Vinduer",
+    "deviceDesc":"Test Automation Description",
+    "manufacture":"Automation Manufacturer", 
+    "codeType":"0",
+    "productCode":"Automation Code", 
+    "gtinNumber":"Test No", 
+    "lifeExpectancy":"5", 
+    "warrantyDuration":"3", 
+    "buildingElementId":"Bygning                                                                                             ", 
+    "installationYear":"2015", 
+    "roomId":"kitchen",
+    "manualPath":"../../testData/uploadData/boligmappa.pdf"
+}

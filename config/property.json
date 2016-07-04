@@ -1,0 +1,5 @@
+{
+    "baseURL":"http://bedrift.boligmappa.99x.no/",
+    "downloadPath":"C:/boligmappaBedriftTests/Downloads/",
+    "Jasmine2HtmlReportPath":"C:/boligmappaBedriftTests/Jasmine2HtmlReports/"
+}

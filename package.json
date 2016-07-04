@@ -1,0 +1,28 @@
+{
+  "name": "boligmappa_bedrift",
+  "version": "1.0.0",
+  "description": "Boligmappa Bedrift Tests",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "latest-version": "^2.0.0",
+    "node": "6.2.1",
+    "protractor": "^3.0.0"
+  },
+  "devDependencies": {
+    "protractor-jasmine2-html-reporter": "0.0.5"
+  },
+  "scripts": {
+    "setup": "npm install && node node_modules/protractor/bin/webdriver-manager update",
+    "start": "node node_modules/protractor/bin/protractor config/conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://harindum@bitbucket.org/harindum/boligmappa.bedrift.automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/harindum/boligmappa.bedrift.automation#readme"
+}

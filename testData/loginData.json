@@ -1,0 +1,10 @@
+{
+    "username":"sameera",
+    "username2":"yohan",
+    "correctPw":"intel@123",
+    "incorrectPw":"intel@1234",
+    "accountName":"Sameera Gunasinghe",
+    "failedLogin":"Brukernavn og/eller passord er feil.",
+    "incompleteLogin":"input-validation-error login-username",
+	"enteredText":"STRAN"
+}
